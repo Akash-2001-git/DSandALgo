@@ -11,6 +11,7 @@ void show(T arr[], int size, string msg) {
         cout << arr[i] << " ";
     }
     cout << endl;
+    //
 }
 
 int main(){
