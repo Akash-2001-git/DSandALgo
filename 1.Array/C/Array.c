@@ -2,8 +2,7 @@
 #include<stdbool.h>
 #define size 4
 int main(){
-    // declare array
-    // datatype arr_name[size] = {values...}
+    
     int a[size] = {1, 3, 4, 5};
     float b[size]={2.3, 9.23, 0.22, 92};
     char c[]={'a', 'b', 'c', 'd'};
