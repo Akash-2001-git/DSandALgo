@@ -1,9 +1,6 @@
 #include<iostream>
 
-using namespace std;
-
-const int asize = 10;
-
+using namespace st
 
 int hashKey(int value){
     return value % asize;
