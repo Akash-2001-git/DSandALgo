@@ -3,7 +3,7 @@
 #include<vector>
 #include<array>
 
-using namespace std;
+usingce std;
 
 template<typename T>
 void show(T arr[], int size, string msg) {
